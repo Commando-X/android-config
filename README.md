@@ -74,6 +74,7 @@ If you're unable to intercept **Google traffic** or system-level requests:
 
 - Check that your Burp Suite is **listening on all interfaces**.
 - Replace the hardcoded IP address `172.17.0.1` in the scripts with your actual machine's IP address as shown in Burp.
+![image](https://github.com/user-attachments/assets/bf92d01d-2ea1-4886-a478-095ce4ffb390)
 - Restart your device and re-run the script if changes don’t take effect.
 
 ---
