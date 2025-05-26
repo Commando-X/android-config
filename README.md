@@ -22,8 +22,8 @@ This project provides automation scripts to simplify the process of configuring 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/android-proxy-config.git
-cd android-proxy-config
+git clone https://github.com/Commando-X/android-config.git
+cd android-config
 ```
 
 ---
